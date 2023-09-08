@@ -1,10 +1,10 @@
 ---
 title: gitLogConfig
 tags:
-  - 'Git'
+  - Git
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-09-08T23:27:09+09:00'
+id: ecead0b4f12a362323f8
 organization_url_name: null
 slide: false
 ---
